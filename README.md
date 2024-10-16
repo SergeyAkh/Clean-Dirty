@@ -13,7 +13,7 @@ After second training I made a prediction for test set again and created a submi
 Resived score is 0.85 <br />
 
 But lets try model on real photos) <br />
-<img src="[your_relative_path_here](https://github.com/SergeyAkh/Clean-Dirty/Result_image_1.webp)" width="350" title="hover text">
+<img src="https://github.com/SergeyAkh/Clean-Dirty/Result_image_1.webp" width="350">
 <br />
 <img src="https://github.com/SergeyAkh/FlashCardGame_App/assets/57836225/e3faa6bf-c5ae-4863-affa-0746bcace11c" width="200" />
 <br />
