@@ -1,6 +1,6 @@
 # Clean-Dirty plates images classification.
 
-Here is breaf approach to accomplish the task of classification clead and dirty images of plates from Kaggle competition. <br />
+Here is a brief overview of my approach to classifying clean and dirty images of plates for a Kaggle competition. <br />
 
 I used a combination of transfer learning and active learning to classify images of clean and dirty plates from a Kaggle competition. The process involved several key steps:
 
