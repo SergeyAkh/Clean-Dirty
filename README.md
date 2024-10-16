@@ -13,10 +13,7 @@ After second training I made a prediction for test set again and created a submi
 Resived score is 0.85 <br />
 
 But lets try model on real photos) <br />
-<img src="/Users/sergeiakhmadulin/My Drive/Clean-Dirty/Result_image_1.webp" width="350">
-<br />
-<img src="https://github.com/SergeyAkh/FlashCardGame_App/assets/57836225/e3faa6bf-c5ae-4863-affa-0746bcace11c" width="200" />
-<br />
-<img src="https://github.com/SergeyAkh/FlashCardGame_App/assets/57836225/b74e1fb2-ba29-4075-be2a-ef87501d1062" width="200" />
-<br />
-<img src="https://github.com/SergeyAkh/FlashCardGame_App/assets/57836225/306ef9a2-deec-4db0-b6c0-9105e075a36e" width="200" />
+
+<img width="603" alt="Result_image_1" src="https://github.com/user-attachments/assets/d5374989-8317-43c2-a74d-cd73c36ded33">
+<img width="550" alt="Result_image_3" src="https://github.com/user-attachments/assets/0492472e-92c7-47bb-a7ad-b41aa61d8f62">
+<img width="550" alt="Result_image_2" src="https://github.com/user-attachments/assets/b6a4d8fa-9802-4968-a40f-b77fd3030e26">
